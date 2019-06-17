@@ -6,6 +6,6 @@ function addElementToBeginningOfArray() {
 }
 
 function destructivelyAddElementToBeginningOfArray() {
-   chocolateBars[ ] = " ";
+   chocolateBars[7] = " ";
   return chocolateBars;
 }
